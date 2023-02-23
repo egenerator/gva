@@ -14,7 +14,7 @@ import (
 //go:generate go mod download
 
 // @title                       Swagger Example API
-// @version                     0.0.1
+// @version 					0.0.2
 // @description                 This is a sample Server pets
 // @securityDefinitions.apikey  ApiKeyAuth
 // @in                          header
